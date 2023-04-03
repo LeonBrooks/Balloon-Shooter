@@ -1,4 +1,9 @@
 # Balloon-Shooter
+
+<p align="center">
+<img src="Assets/Screenshot.png" alt="Screenshot" class="center" width="60%">
+</p>
+
 A very small game coded for a job interview. I was given the following specifications to build it from scratch in Python.
 > Game Description:
 >A game with the goal of shooting down a balloon. The player should be able to move a cannon up and down using the arrow keys and shoot using the space bar.
